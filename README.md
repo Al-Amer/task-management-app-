@@ -37,23 +37,14 @@ A simple desktop application to manage your daily tasks, built with **JavaFX** a
 ## 📁 Project Structure
 task-management-app/
 ├── src/main/java/com/example/taskmanagement/
-
 │ ├── TaskManagementAppApplication.java # Main entry point
-
 │ ├── TaskManagementAppUI.java # JavaFX GUI
-
 │ ├── Task.java # Entity/model
-
 │ ├── TaskRepository.java # Database operations
-
 │ └── TaskService.java # Business logic
-
 ├── src/main/resources/
-
 │ └── application.properties # Configuration
-
 ├── pom.xml # Dependencies
-
 └── task.db # SQLite database
 
 
