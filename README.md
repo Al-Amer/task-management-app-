@@ -58,16 +58,18 @@ task-management-app/
 
 ### Steps
 
-1. **Clone the repository**
+1. ##Clone the repository**
    ```bash
    git clone https://github.com/yourusername/task-management-app.git
    cd task-management-app
 
-2. **Build the project
+2. ##Build the project
+ ```bash
   mvn clean install
-
-3. **Run the application
+```
+4. ##Run the application
+```bash
   mvn javafx:run
+```
 
-
-**Or run TaskManagementAppApplication.main() from your IDE.
+##Or run TaskManagementAppApplication.main() from your IDE.
